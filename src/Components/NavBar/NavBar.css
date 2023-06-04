@@ -1,0 +1,27 @@
+.navbar__container {
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.nav__link {
+   margin-left: 1rem;
+   background-color: white;
+   font-size: 0.9rem;
+   border: none;
+   cursor: pointer;
+}
+.nav__link:hover {
+    color: rgb(0, 0, 255);
+
+}
+.navbar__color {
+    color: gray;
+    font-weight: lighter;
+}
+.logo {
+    font-size: 2rem;
+   font-weight: normal;
+}

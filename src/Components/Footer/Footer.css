@@ -1,0 +1,13 @@
+.footer__main{
+    background-color: black;
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    padding: 3rem;
+    gap: 10rem;
+    
+    /* margin-top: 3rem; */
+    /* margin-bottom: 3rem; */
+    /* justify-content: space-around; */
+}

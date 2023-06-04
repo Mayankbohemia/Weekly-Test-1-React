@@ -1,0 +1,35 @@
+.main__features{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 3rem;
+    margin-top: 5rem;
+}
+.container__features{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+}
+.flex__allign{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: 2rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+.features__image {
+    width: 100px;
+    height: 100px;
+}
+.text {
+    text-align: center;
+}
+.span{
+    color: blue;
+    cursor: pointer;
+}
